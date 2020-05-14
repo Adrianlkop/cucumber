@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>a23.jpg</filename>
+	<path>/home/atta/data/cucumber-9-python/JPEGImages/a23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>65</ymin>
+			<xmax>405</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>
