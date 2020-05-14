@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>snapshots</folder>
+	<filename>cloudy_Oct23_Lakeside_00079.jpg</filename>
+	<path>/home/atta/data/2019-10-23-LakeSide-Evening-Logitech/snapshots/cloudy_Oct23_Lakeside_00079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
